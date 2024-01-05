@@ -1,0 +1,20 @@
+[
+  {
+    "id": "10000",
+    "key": "TP",
+    "name": "Test Project",
+    "isPrivate": false
+  },
+  {
+    "id": "10001",
+    "key": "TP2",
+    "name": "Test-Project-2",
+    "isPrivate": false
+  },
+  {
+    "id": "10002",
+    "key": "TP3",
+    "name": "Test-Project-3",
+    "isPrivate": false
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "kind": "folderTree",
+  "data": [
+    {
+      "id": "IEAFOVIGI7777777",
+      "title": "Root",
+      "childIds": [
+        "IEAFOVIGI44PNHOC",
+        "IEAFOVIGI44PNG4J"
+      ],
+      "scope": "WsRoot"
+    },
+    {
+      "id": "IEAFOVIGI7777776",
+      "title": "Recycle Bin",
+      "childIds": [],
+      "scope": "RbRoot"
+    },
+    {
+      "id": "IEAFOVIGI44PNU2Z",
+      "title": "Test Project 3",
+      "childIds": [],
+      "scope": "WsFolder",
+      "project": {
+        "authorId": "KUAN3GH4",
+        "ownerIds": [],
+        "customStatusId": "IEAFOVIGJMC26PDE",
+        "createdDate": "2022-08-30T03:36:35Z"
+      }
+    },
+    {
+      "id": "IEAFOVIGI44PNU2U",
+      "title": "Test Project 2",
+      "childIds": [],
+      "scope": "WsFolder",
+      "project": {
+        "authorId": "KUAN3GH4",
+        "ownerIds": [],
+        "customStatusId": "IEAFOVIGJMC26PDE",
+        "createdDate": "2022-08-30T03:36:28Z"
+      }
+    },
+    {
+      "id": "IEAFOVIGI44PNHPA",
+      "title": "Test Project",
+      "childIds": [],
+      "scope": "WsFolder",
+      "project": {
+        "authorId": "KUAN3GH4",
+        "ownerIds": [],
+        "customStatusId": "IEAFOVIGJMC26PDE",
+        "createdDate": "2022-08-30T03:13:54Z"
+      }
+    },
+    {
+      "id": "IEAFOVIGI44PNHOC",
+      "title": "Test space",
+      "childIds": [
+        "IEAFOVIGI44PNU2U",
+        "IEAFOVIGI44PNHPA",
+        "IEAFOVIGI44PNU2Z"
+      ],
+      "scope": "WsFolder"
+    },
+    {
+      "id": "IEAFOVIGI44PNG4J",
+      "title": "Personal",
+      "childIds": [],
+      "scope": "WsFolder"
+    }
+  ]
+}

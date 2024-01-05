@@ -1,0 +1,173 @@
+[
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=5e16b8f53e586d0dafec51d9",
+    "accountId": "5e16b8f53e586d0dafec51d9",
+    "accountType": "atlassian",
+    "emailAddress": "mitch.awallace@gmail.com",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/d3b47377272cf242ea5a95f2e73e9a02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMW-4.png",
+      "24x24": "https://secure.gravatar.com/avatar/d3b47377272cf242ea5a95f2e73e9a02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMW-4.png",
+      "16x16": "https://secure.gravatar.com/avatar/d3b47377272cf242ea5a95f2e73e9a02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMW-4.png",
+      "32x32": "https://secure.gravatar.com/avatar/d3b47377272cf242ea5a95f2e73e9a02?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMW-4.png"
+    },
+    "displayName": "Mitchell Wallace",
+    "active": true,
+    "locale": "en_US"
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=557058:f58131cb-b67d-43c7-b30d-6b58d40bd077",
+    "accountId": "557058:f58131cb-b67d-43c7-b30d-6b58d40bd077",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/600529a9c8bfef89daa848e6db28ed2d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+      "24x24": "https://secure.gravatar.com/avatar/600529a9c8bfef89daa848e6db28ed2d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+      "16x16": "https://secure.gravatar.com/avatar/600529a9c8bfef89daa848e6db28ed2d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png",
+      "32x32": "https://secure.gravatar.com/avatar/600529a9c8bfef89daa848e6db28ed2d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FAJ-0.png"
+    },
+    "displayName": "Automation for Jira",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=5d53f3cbc6b9320d9ea5bdc2",
+    "accountId": "5d53f3cbc6b9320d9ea5bdc2",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/40cff14f727dbf6d865576d575c6bdd2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJO-4.png",
+      "24x24": "https://secure.gravatar.com/avatar/40cff14f727dbf6d865576d575c6bdd2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJO-4.png",
+      "16x16": "https://secure.gravatar.com/avatar/40cff14f727dbf6d865576d575c6bdd2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJO-4.png",
+      "32x32": "https://secure.gravatar.com/avatar/40cff14f727dbf6d865576d575c6bdd2?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJO-4.png"
+    },
+    "displayName": "Jira Outlook",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=5cb4ae0e4b97ab11a18e00c7",
+    "accountId": "5cb4ae0e4b97ab11a18e00c7",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5cb4ae0e4b97ab11a18e00c7/0c3fec9a-029d-422f-8586-89bc4ac2fe7e/48",
+      "24x24": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5cb4ae0e4b97ab11a18e00c7/0c3fec9a-029d-422f-8586-89bc4ac2fe7e/24",
+      "16x16": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5cb4ae0e4b97ab11a18e00c7/0c3fec9a-029d-422f-8586-89bc4ac2fe7e/16",
+      "32x32": "https://avatar-management--avatars.us-west-2.prod.public.atl-paas.net/5cb4ae0e4b97ab11a18e00c7/0c3fec9a-029d-422f-8586-89bc4ac2fe7e/32"
+    },
+    "displayName": "Atlassian Assist",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=60e5a86a471e61006a4c51fd",
+    "accountId": "60e5a86a471e61006a4c51fd",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/33d4f224cd83fc4ec3d32e132209baf4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/33d4f224cd83fc4ec3d32e132209baf4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/33d4f224cd83fc4ec3d32e132209baf4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/33d4f224cd83fc4ec3d32e132209baf4?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FMC-2.png"
+    },
+    "displayName": "Microsoft Teams for Jira Cloud",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=557058:0867a421-a9ee-4659-801a-bc0ee4a4487e",
+    "accountId": "557058:0867a421-a9ee-4659-801a-bc0ee4a4487e",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png",
+      "24x24": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png",
+      "16x16": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png",
+      "32x32": "https://secure.gravatar.com/avatar/ab3787cd0c16633ae050dff9d5ab15fc?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FS-0.png"
+    },
+    "displayName": "Slack",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=557058:950f9f5b-3d6d-4e1d-954a-21367ae9ac75",
+    "accountId": "557058:950f9f5b-3d6d-4e1d-954a-21367ae9ac75",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/726e9dfb98dfab7231aca0392486818d?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJW-2.png"
+    },
+    "displayName": "Jira Service Management Widget",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=5dd64082af96bc0efbe55103",
+    "accountId": "5dd64082af96bc0efbe55103",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/675673c3f473815508441d00933b1752?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FOI-3.png",
+      "24x24": "https://secure.gravatar.com/avatar/675673c3f473815508441d00933b1752?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FOI-3.png",
+      "16x16": "https://secure.gravatar.com/avatar/675673c3f473815508441d00933b1752?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FOI-3.png",
+      "32x32": "https://secure.gravatar.com/avatar/675673c3f473815508441d00933b1752?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FOI-3.png"
+    },
+    "displayName": "Opsgenie Integration",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=557058:214cdd6a-ff93-4d8b-838b-62dfcf1a2a71",
+    "accountId": "557058:214cdd6a-ff93-4d8b-838b-62dfcf1a2a71",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/5f14d72ea4c4ebb05e46175191444f71?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FT-2.png"
+    },
+    "displayName": "Trello",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=5b6c7b3afbc68529c6c47967",
+    "accountId": "5b6c7b3afbc68529c6c47967",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/1ac15886f45477da1a8230e3c52df31e?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FSJ-2.png"
+    },
+    "displayName": "Statuspage for Jira",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=5cf112d31552030f1e3a5905",
+    "accountId": "5cf112d31552030f1e3a5905",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/92dbb0e2c4bdf7a4e079ce410ddb6029?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FJS-2.png"
+    },
+    "displayName": "Jira Spreadsheets",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=630d83df3e578bb3b5fe3756",
+    "accountId": "630d83df3e578bb3b5fe3756",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/9ae072d081a9c5c4e18f1f352b29da80?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-2.png",
+      "24x24": "https://secure.gravatar.com/avatar/9ae072d081a9c5c4e18f1f352b29da80?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-2.png",
+      "16x16": "https://secure.gravatar.com/avatar/9ae072d081a9c5c4e18f1f352b29da80?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-2.png",
+      "32x32": "https://secure.gravatar.com/avatar/9ae072d081a9c5c4e18f1f352b29da80?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Fdefault-avatar-2.png"
+    },
+    "displayName": "102085dd-1ee2-4322-bc20-23dc18779e1d",
+    "active": true
+  },
+  {
+    "self": "https://mitchell-wallace.atlassian.net/rest/api/3/user?accountId=630d83e155b0a9e29f1a6ec1",
+    "accountId": "630d83e155b0a9e29f1a6ec1",
+    "accountType": "app",
+    "avatarUrls": {
+      "48x48": "https://secure.gravatar.com/avatar/d883f1640351a4aa9229ea3d003d24c6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FH-1.png",
+      "24x24": "https://secure.gravatar.com/avatar/d883f1640351a4aa9229ea3d003d24c6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FH-1.png",
+      "16x16": "https://secure.gravatar.com/avatar/d883f1640351a4aa9229ea3d003d24c6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FH-1.png",
+      "32x32": "https://secure.gravatar.com/avatar/d883f1640351a4aa9229ea3d003d24c6?d=https%3A%2F%2Favatar-management--avatars.us-west-2.prod.public.atl-paas.net%2Finitials%2FH-1.png"
+    },
+    "displayName": "Hashi-Jira-Test",
+    "active": true
+  }
+]

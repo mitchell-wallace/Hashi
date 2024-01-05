@@ -1,0 +1,3 @@
+DROP DATABASE hashi_db;
+
+CREATE DATABASE hashi_db;

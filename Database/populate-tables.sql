@@ -1,0 +1,33 @@
+INSERT INTO users(email, display_name, jira_id, wrike_id, created_date) 
+    VALUES ('MyspaceTom@example.com','Myspace Tom','ABC123','XYZ789','2022-04-05'),
+    ('JohnSmith@example.com','John Smith','ABC111','XYZ777','2022-04-05'),
+    ('JaneDoe@example.com','Jane Doe','ABC222','XYZ888','2022-04-05'),
+    ('JoeSchmoe@example.com','Joe Schmoe','ABC333','XYZ999','2022-04-05'),
+    ('JohnDeere@example.com','John Deere','ABC444','XYZ444','2022-04-05'),
+    ('PeterParker@example.com','Peter Parker','SP456Y','SP2RE1','2022-08-21'),
+    ('TaylorSwift@example.com','Taylor Swift','SW8739','SW0304','2022-08-22'),
+    ('JiminyCricket@example.com','Jiminy Cricket','CR39685','CR100022','2021-05-05'),
+    ('JeremyClarkson@example.com','Jeremy Clarkson','CL29384','CL039465','2020-02-28'),
+    ('RichardHammond@example.com','Richard Hammond','HA10394','HA873493','2021-09-11'),
+    ('JamesMay@example.com','James May','MA384920','MA102954','2019-11-14'),
+    ('MauriceMoss@example.com','Maurice Moss','MO385629','MO013859','2013-03-21'),
+    ('DenimReynholm@example.com','Denim Rehnholm','RE294857','RE947263','2014-01-17'),
+    ('SantaClaus@example.com','Santa Claus','CL483092','CL204965','2018-12-25'),
+    ('EasterBunny@example.com','Easter Bunny','BU396047','BU105739','2019-05-05');
+
+INSERT INTO projects (project_name, jira_id, wrike_id, created_date) 
+    VALUES ('Myspace','AAA1','XXX1','2022-04-05'),
+    ('Myspace competitor','BBB2','YYY2','2022-04-05'),
+    ('Popular app','CCC3','ZZZ3','2022-04-05'),
+    ('Fastgram','FG126704','FG057834','2019-09-09'),
+    ('FMail','FM294875','FM937452','2017-04-19'),
+    ('Foofle Search','FS948372','FS023874','1900-01-01'),
+    ('Amazoff Shopped','AS947326','AS049328','2023-10-10'),
+    ('COD Immobile','CI049327','CI023498','2021-05-05'),
+    ('Flappy Emu-dev','FE843738','FE049389','2020-07-07'),
+    ('Stoppy Street','SS943049','SS204949','2019-02-02'),
+    ('Common Poor Bank','CB094328','CB394872','2017-06-12'),
+    ('Crypto Miner','CM984372','CM284736','2020-08-22'),
+    ('Fakebook','FK984327','FK948326','2020-05-22'),
+    ('WeDontChat','WC043928','WC390283','2018-12-31'),
+    ('kiT koT','KK204938','KK103928','2012-02-29');

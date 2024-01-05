@@ -1,0 +1,52 @@
+{
+  "kind": "contacts",
+  "data": [
+    {
+      "id": "KUAN3GH4",
+      "firstName": "Mitchell",
+      "lastName": "Wallace",
+      "type": "Person",
+      "profiles": [
+        {
+          "accountId": "IEAFOVIG",
+          "email": "mitch.awallace@gmail.com",
+          "role": "User",
+          "external": false,
+          "admin": false,
+          "owner": true
+        }
+      ],
+      "avatarUrl": "https://www.wrike.com/avatars//8E/BC/Box_ff8e24aa_77-87_v1.png",
+      "timezone": "US/Pacific",
+      "locale": "en",
+      "deleted": false,
+      "me": true,
+      "title": "Other",
+      "companyName": "mitchell-wallace",
+      "phone": "+61 0401619055"
+    },
+    {
+      "id": "KX7ZEXB7",
+      "firstName": "My Team",
+      "lastName": "",
+      "type": "Group",
+      "profiles": [
+        {
+          "accountId": "IEAFOVIG",
+          "role": "User",
+          "external": false,
+          "admin": false,
+          "owner": false
+        }
+      ],
+      "avatarUrl": "https://www.wrike.com/avatars/default/internal_users_group.png",
+      "timezone": "Z",
+      "locale": "en",
+      "deleted": false,
+      "memberIds": [
+        "KUAN3GH4"
+      ],
+      "myTeam": true
+    }
+  ]
+}
